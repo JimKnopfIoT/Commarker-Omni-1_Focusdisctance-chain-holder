@@ -7,7 +7,7 @@ The mount piece consists of 2 3D printed parts (top and bottom part, mounted on 
 ## View
 <p align="center">
 <img src="Kettenhalter.png" width="250"> 
-<img src="Kettenhalter.png" width="250"> 
+<img src="Kettenhalter2.png" width="250"> 
 </p>
 <p align="center">
 <img src="1.jpg" width="250"> 
